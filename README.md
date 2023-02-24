@@ -5,7 +5,7 @@ Database of Java Assignments
 <details>
   <summary>Java Assignment 1 - 24.02.2023 by Gomathi Mam</summary>
   
-1.  Check for Odd or Even Number
+01.  Check for Odd or Even Number
 
 02.Prime Number
 
