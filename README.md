@@ -5,15 +5,15 @@ Database of Java Assignments
 <details>
   <summary>Assignment 1 - 24.02.2023 by Gomathi Mam</summary>
   
-01. [Check for Odd or Even Number](https://github.com/noobshubham/Java-Assignments/blob/master/Assignment%201%20-%2024.02.2023/OddEven.java)
-02. Prime Number
-03. Fibonacci Series
-04. Factorial Program
-05. Armstrong Number
-06. Perfect Number
-07. Palindrome Number
-08. Reverse Number
-09. Pronic Number
+1. [Check for Odd or Even Number](https://github.com/noobshubham/Java-Assignments/blob/master/Assignment%201%20-%2024.02.2023/OddEven.java)
+2. Prime Number
+3. Fibonacci Series
+4. Factorial Program
+5. Armstrong Number
+6. Perfect Number
+7. Palindrome Number
+8. Reverse Number
+9. Pronic Number
 10. Magic Number
 11. Happy Number
 12. Automorphic number
