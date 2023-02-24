@@ -3,7 +3,7 @@ Database of Java Assignments
 
 
 <details>
-  <summary>Java Assignment 1 - 24.02.2023 by Gomathi Mam</summary>
+  <summary>Assignment 1 - 24.02.2023 by Gomathi Mam</summary>
   
 01.  Check for Odd or Even Number
 
