@@ -2,9 +2,9 @@ Database of Java Assignments
 ============================
 
 
-<details>
-  <summary>Assignment 1 - 24.02.2023 by Gomathi Mam</summary>
-  
+Assignment 1 - 24.02.2023 by Gomathi Mam
+-----------------------------------------
+
 1. [Check for Odd or Even Number](https://github.com/noobshubham/Java-Assignments/blob/master/Assignment%201%20-%2024.02.2023/OddEven.java)
 2. [Prime Number](https://github.com/noobshubham/Java-Assignments/blob/master/Assignment%201%20-%2024.02.2023/PrimeNumber.java)
 3. Fibonacci Series
@@ -25,7 +25,6 @@ Database of Java Assignments
 18. Sum of Digits
 19. GCD and LCM
 20. Count Digits in a Number
-</details>
 
 
 Visitors Count
