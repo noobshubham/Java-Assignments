@@ -5,9 +5,7 @@ Database of Java Assignments
 <details>
   <summary>Assignment 1 - 24.02.2023 by Gomathi Mam</summary>
   
-  
-01. [Check for Odd or Even Number](https://github.com/noobshubham/Java-Assignments/blob/master/Assignment%201%20-%2024.02.2023/OddEven.java)
-
+1.[Check for Odd or Even Number](https://github.com/noobshubham/Java-Assignments/blob/master/Assignment%201%20-%2024.02.2023/OddEven.java)
 02.Prime Number
 
 03.Fibonacci Series
@@ -28,7 +26,7 @@ Database of Java Assignments
 
 11.Happy Number
 
-12. Automorphic number
+1.  Automorphic number
 
 13.Neon Number
 
