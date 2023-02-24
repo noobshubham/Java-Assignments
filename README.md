@@ -6,7 +6,7 @@ Database of Java Assignments
   <summary>Assignment 1 - 24.02.2023 by Gomathi Mam</summary>
   
 1. [Check for Odd or Even Number](https://github.com/noobshubham/Java-Assignments/blob/master/Assignment%201%20-%2024.02.2023/OddEven.java)
-2. Prime Number
+2. [Prime Number](https://github.com/noobshubham/Java-Assignments/blob/master/Assignment%201%20-%2024.02.2023/PrimeNumber.java)
 3. Fibonacci Series
 4. Factorial Program
 5. Armstrong Number
