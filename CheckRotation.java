@@ -1,3 +1,10 @@
+/*
+ * WAP to check if two accepted string are the rotation of each other.
+ * a string is said to be rotation of another string if they contain 
+ * same character and the sequence is rotated across any characters. 
+ * example "dabc" is rotation of "abcd" but "dbac" is not.
+ */
+
 import java.util.Scanner;
 
 public class CheckRotation {
