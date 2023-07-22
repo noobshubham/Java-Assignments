@@ -8,6 +8,8 @@ public class MagicValue {
     }
 
     static int magicValue(int a[], int b[], int n) {
+
+        // write your code here
         double result = 0;
 
         for (int i = 0; i < n; i++) {
