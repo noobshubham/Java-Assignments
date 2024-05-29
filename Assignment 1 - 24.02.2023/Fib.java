@@ -11,9 +11,9 @@ public class Fib {
         Scanner inp = new Scanner(System.in);
         System.out.println("Enter a number till which the fibonnaci series should run:-\n");
         int a = inp.nextInt();
-        for (int i = 0; i <= a; i++) {
+        for (int i = 0; i < a; i++) {
             System.out.print(ser(i) + " ");
         }
-
+        inp.close();
     }
 }
